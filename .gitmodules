@@ -1,0 +1,6 @@
+[submodule "morphic"]
+	path = morphic
+	url = https://github.com/miurla/morphic
+[submodule "yacy_search_server"]
+	path = yacy_search_server
+	url = https://github.com/yacy/yacy_search_server
